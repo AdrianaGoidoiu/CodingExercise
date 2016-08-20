@@ -1,0 +1,11 @@
+1. A file consists of a sequence of ASCII characters.
+               A sequence of one or more digits followed by a non-digit represents a decimal integer.
+               The file includes no negative numbers.
+               Write a program to
+                               * add all the numbers in the file,
+                               * count how many times each ASCII character occurs in the file,
+                               * output the result to a file.
+               You may assume that the sum of the numbers will not exceed the maximum value of an integer.
+                A sample input file and a valid output file are attached.
+ 
+2. Develop programmatic tests or devise a test strategy to adequately test the developed code.
